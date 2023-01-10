@@ -1,0 +1,1 @@
+Notes over create the apis. Metod GET: search the info and print at screen. Metod POST: stores on the server. Metod PUSH: increment elements at array, at the last position. Metod POP: put one element at the first position of the array. JSON: means notation of object javaScrip.
